@@ -74,11 +74,13 @@ Residual connections help improve gradient flow and enable deeper networks to tr
 
 ## Project Structure
 
+## Project Structure
+
 ResNet_CIFAR10/
-│
-├── notebook.ipynb
-├── resnet_cifar10.keras
-├── README.md
-├── requirements.txt
-├── screenshots/
-└── Summary/
+
+- notebook.ipynb
+- resnet_cifar10.keras
+- README.md
+- requirements.txt
+- screenshots/
+- Summary/
